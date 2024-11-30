@@ -12,7 +12,7 @@ function Header(){
 <>
 {/* <!-- ***** Pre-Header Area Start ***** --> */}
 <div className="pre-header" id="top">
-  <div className="container">
+  <div className="container ">
     <div className="row">
       <div className="col-lg-8 col-sm-9">
         <div className="left-info">
